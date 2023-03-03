@@ -82,7 +82,7 @@ See [Getting Started](https://facebook.github.io/react-native/docs/getting-start
 On the command prompt run the following commands
 
 ```sh
-$ git clone https://github.com/bdrhoa/react-native-ecommerce.git
+$ git clone https://github.com/bdrhoa/react-native-ecommerce-for-kount.git
 
 $ cd react-native-redux-starter/
 
