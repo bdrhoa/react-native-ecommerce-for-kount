@@ -79,7 +79,7 @@ See [Getting Started](https://facebook.github.io/react-native/docs/getting-start
 
 #### 1. Installation
 
-On the command prompt run the following commands
+On the command prompt run the following commands (If on an M1 Mac, run the terminal in Rosetta mode.)
 
 ```sh
 $ git clone https://github.com/bdrhoa/react-native-ecommerce-for-kount.git
